@@ -1,0 +1,3 @@
+points to remember:
+    configure cors when deploying
+    configure aws rds ip for deployed server
