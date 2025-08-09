@@ -1,6 +1,6 @@
 import "dotenv/config";
 import app from "./app.js";
-import connectDB from "./db/db.js";
+import { connectDB } from "./db/db.js";
 
 // call connectDB to create db connection
 // if success then listen server at desired port
